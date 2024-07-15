@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Vineeth Hamilpur
 
 - 🔭 I’m currently working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning Datastructures and Algoithms
+- 🌱 I’m currently learning React-Native and working on a project related to it
 - 💬 Ask me about Java, JavaScript, ReactJs
 - 📫 How to reach me: <div id="badges">
                       <a href="https://www.linkedin.com/in/vineeth-hamilpur-bb5034182/">
